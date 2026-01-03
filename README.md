@@ -7,7 +7,7 @@ Jednoduchý One-Page web zaměřený na osobnost Ludwiga van Beethovena.
 HTML, CSS, JavaScript
 
 **Spuštění:**  
-Otevřít `index.html` v prohlížeči.
+Otevřete `https://dwenzel024.github.io/2it-web-wenzel-david/` v prohlížeči.
 
 **Na co jsem hrdý:**  
 Práce s animací a design.
